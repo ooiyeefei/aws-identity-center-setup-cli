@@ -146,6 +146,9 @@ Useful background info:
 
 
 // TODO
+
 [x] Complete Import scripts above and find out input requirement with SDK
+
 [ ] Automate 
+
 [ ] Take the part of the export scripts that’s need and chain up with import components
